@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://etortgale.github.io/sitemap.html.gz
+Sitemap: https://etortgale.github.io/app/sitemap.html.gz
+Sitemap: https://etortgale.github.io/assets/sitemap.html.gz
+Sitemap: https://etortgale.github.io/css/sitemap.html.gz
+Sitemap: https://etortgale.github.io/includes/sitemap.html.gz
+Sitemap: https://etortgale.github.io/item/sitemap.html.gz
+Sitemap: https://etortgale.github.io/src/sitemap.html.gz
